@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The dataset used for training the model should be organized in a folder named `leapGestRecog`, with subfolders for each gesture.
+We have used https://www.kaggle.com/datasets/gti-upm/leapgestrecog dataset for training this model.
 
 ## Usage
 
